@@ -27,3 +27,4 @@ Notes and usage details for projclean.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
